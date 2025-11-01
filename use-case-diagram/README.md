@@ -1,4 +1,4 @@
-✅ Core Features and Functionalities
+## Core Features and Functionalities
 
 User Authentication User Registration
 User Login
